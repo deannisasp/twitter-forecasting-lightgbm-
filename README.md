@@ -1,5 +1,5 @@
-# twitter-forecasting-lightgbm-
-Time series forecasting of Twitter/X topic, word, and hashtag frequencies using LightGBM with Optuna-based hyperparameter optimization to support data-driven social media marketing strategies.
+# Twitter-forecasting-lightgbm-
+This repository provides an end-to-end pipeline for Twitter/X data analysis, covering data crawling, preprocessing, and time series forecasting of topic, word, and hashtag frequencies. The forecasting models are built using LightGBM and optimized with Optuna to capture temporal patterns in highly dynamic social media data. The proposed approach aims to support data-driven decision-making in digital marketing by identifying potentially popular topics, words, and hashtags before content publication.
 
 # Twitter Data Analysis Pipeline
 
