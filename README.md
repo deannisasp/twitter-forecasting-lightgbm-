@@ -437,11 +437,6 @@ Output files:
 - **LightGBM**: https://lightgbm.readthedocs.io/
 - **Optuna**: https://optuna.readthedocs.io/
 
----
-
-## 👤 Author
-
-Converted from Jupyter Notebooks to Python scripts for easier deployment and version control.
 
 ---
 
